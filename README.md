@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Istiak Ahamed Saif
 
-🎯 **Junior Software Developer**  
+🎯 **Software Developer**  
 🏢 Working at **D-bug Station Ltd** since Sep 2022  
 🛠️ Passionate about building mobile apps with **Flutter + GetX**
 
@@ -36,13 +36,13 @@
 
 ## 🌐 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=istiaksaif&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=istiaksaif&theme=github-compact)
 
 ---
 
 ## 📬 Connect with Me
 
-📧 Email: istiak.ahamed.saif@gmail.com  
+📧 Email: istiaksaif.nsu@gmail.com  
 💼 LinkedIn: [istiaksaif](https://www.linkedin.com/in/istiaksaif/)  
 🌍 Portfolio (coming soon...)
 
