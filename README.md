@@ -6,13 +6,30 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Currently Learning / Upgrading  
 
-- 🌐 API Integration (RESTful services)
-- 📦 Local databases (SQLite)
-- 🔐 Authentication (Firebase, Google Sign-In)
-- 🧭 State Management (Mastering GetX)
-- 📲 V2Ray VPN & Ad integration (IronSource, TyrAds)
+### 🔹 Core Skills  
+- 🌐 **Advanced API Integration** (REST + GraphQL)  
+- 📦 **Local & Offline Databases** (Isar, Drift, ObjectBox)  
+- 🔐 **Authentication & Security** (Firebase, OAuth, Google/Apple Sign-In)  
+- 🧭 **State Management** (GetX → Riverpod / Bloc for scalable apps)  
+
+### 🔹 Specialized Areas  
+- 📲 **VPN & Ads** (V2Ray, IronSource, TyrAds)  
+- ⚡ **Caching Systems** (Facebook-style offline sync + prefetching)  
+- 🔄 **CI/CD Pipelines** (GitHub Actions, Codemagic, Fastlane)
+- 🤖 **AI Integration** (Chatbots, Recommendations, On-device ML)  
+- 📊 **App Performance & Analytics** (Firebase Performance, Sentry)  
+- 🏗️ **Clean Architecture & Modularization** (SOLID, Melos)  
+
+### 🔹 Future-Focused  
+- 🌍 **Cross-Platform Expansion** (Flutter Web, Flutter Desktop)  
+- 📡 **Realtime Systems** (WebSockets, MQTT, SignalR)  
+- 🧩 **Micro-Frontends & Modular Apps** (scalable enterprise-level apps)  
+- 🔐 **Zero-Trust Security & Privacy-First Apps**  
+- 🌐 **Web3 & Decentralized Apps (DApps)**  
+- 🕹️ **AR/VR & Immersive Experiences** (ARCore, ARKit, Unity + Flutter) 
+
 
 ---
 
