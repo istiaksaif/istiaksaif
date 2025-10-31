@@ -6,6 +6,23 @@
 
 ---
 
+## 🚀 Live Apps (Portfolio)
+
+### 📱 **Billipatra**
+- 🏢 Client: D-Bug Station Ltd  
+- 📦 Role: Flutter Developer (Frontend + API Integration using GetX)  
+- 🔗 **Play Store:** [Billipatra - Bazaar Buy & Sell](https://play.google.com/store/apps/details?id=com.gmarketplace.app)  
+- 🔗 **App Store:** [Billipatra - Bazaar Buy and Sell](https://apps.apple.com/app/bilipatra-bazaar-buy-and-sell/id6745143406)
+
+---
+
+### 🌙 **Sleep Oasis**
+- 🧘 Role: Flutter Developer (UI + Audio Player Integration + Firebase Analytics)  
+- 🔗 **Play Store:** [Sleep Oasis - Sounds & AI Coach](https://play.google.com/store/apps/details?id=com.sleepoasis.sleeptracker)  
+- 🔗 **App Store:** [Sleep Oasis - Sounds & AI Coach](https://apps.apple.com/us/app/sleepoasis-sounds-ai-coach/id6749880785)
+
+---
+
 ## 🧠 Currently Learning / Upgrading  
 
 ### 🔹 Core Skills  
